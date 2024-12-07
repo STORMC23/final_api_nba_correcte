@@ -1,0 +1,39 @@
+{"items": [
+    {
+        "puntuacio": 10,
+        "name": "LeBron James",
+        "imatge": "https://images.hdqwalls.com/wallpapers/lebron-james-zt.jpg",
+        "id": "1"
+    },
+    {
+        "puntuacio": 10,
+        "name": "Stephen Curry",
+        "imatge": "https://phantom-marca.unidadeditorial.es/085a6aecb98c8382941fcb4d002b5851/resize/1320/f/jpg/assets/multimedia/imagenes/2023/07/13/16892703264593.png",
+        "id": "2"
+    },
+    {
+        "puntuacio": 10,
+        "name": "Kevin Durant",
+        "imatge": "https://media.kjzz.org/s3fs-public/styles/juicebox_large/public/kevin-durant-2-20230217.jpg?itok=tdOgaU0T",
+        "id": "3"
+    },
+    {
+        "puntuacio": 10,
+        "name": "Giannis Antetokounmpo",
+        "imatge": "https://bolavip.com/__export/1682547769979/sites/bolavip/img/2023/04/26/gettyimages-1484964650_crop1682547769169.jpg_242310155.jpg",
+        "id": "4"
+    },
+    {
+        "puntuacio": 10,
+        "name": "James Harden",
+        "imatge": "https://fadeawayworld.net/.image/t_share/MTg3NDMyODMyMzU4OTUwNDYw/jharden.jpg",
+        "id": "5"
+    },
+    {
+        "puntuacio": 10,
+        "name": "Kawhi Leonard",
+        "imatge": "https://th.bing.com/th/id/R.61204c6761fd215122838b8c4ea26450?rik=IKl4nAekzZm8fQ&riu=http%3a%2f%2fimg.bleacherreport.net%2fimg%2fimages%2fphotos%2f003%2f352%2f566%2fhi-res-d20ebd48582c03ca381c67b66d2252cb_crop_exact.jpg%3fw%3d1500%26h%3d1500%26q%3d85&ehk=t9qOi%2baMJ5owIunCt%2bZg1j1qaTC%2bqPYCOB699TdQKO0%3d&risl=&pid=ImgRaw&r=0",
+        "id": "6"
+    }
+]
+}
